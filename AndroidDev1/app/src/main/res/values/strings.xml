@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PPB-1</string>
+    <string name="article_title">Reminder</string>
+    <string name="article_subtitle">Jangan Lupakan Tugas kamu, gunakanlah Aplikasi Reminder!!</string>
+    <string name="article_text">
+        <b>Jakarta, 1 Juni 2023</b> - Aplikasi Reminder adalah sebuah aplikasi yang membantu Anda untuk mengingat segala hal yang
+        harus Anda lakukan. Aplikasi ini merupakan personal assistant yang dapat membantu Anda mencatat segala aktivitas
+        atau pertemuan yang Anda lakukan. Aplikasi ini juga dilengkapi dengan fitur yang dapat sangat membantu dari pengguna aplikasi
+
+        Dengan aplikasi reminder, Anda dapat mencatat semua kegiatan harian Anda dan mengingatkan Anda untuk melakukannya.
+        Anda dapat mencatat semua kegiatan yang Anda lakukan seperti meeting, rapat, tugas, dan lain-lain. Anda juga dapat
+        mencatat semua jadwal yang harus Anda ikuti seperti jadwal pertemuan, jadwal kuliah, dan lain-lain.
+
+        Selain itu, aplikasi reminder juga dapat membantu Anda untuk mencatat semua kegiatan yang Anda lakukan.
+        Anda dapat mencatat semua hal yang harus Anda lakukan seperti mengirim email, menelepon seseorang, dan lain-lain.
+        Aplikasi ini juga dapat mengingatkan Anda untuk melakukan semua hal yang telah Anda catat.
+
+        Aplikasi reminder juga dapat membantu Anda untuk menyimpan semua informasi yang Anda butuhkan.
+        Anda dapat menyimpan semua kontak yang Anda miliki, semua catatan yang Anda buat, dan semua informasi
+        yang Anda butuhkan. Aplikasi ini juga dapat membantu Anda untuk menyimpan semua informasi yang Anda butuhkan.
+
+        Aplikasi reminder juga dapat membantu Anda untuk menyimpan semua informasi yang Anda butuhkan.
+        Anda dapat menyimpan semua kontak yang Anda miliki, semua catatan yang Anda buat, dan semua informasi yang Anda butuhkan.
+        Aplikasi ini juga dapat membantu Anda untuk menyimpan semua informasi yang Anda butuhkan.
+    </string>
+</resources>

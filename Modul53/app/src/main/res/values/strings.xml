@@ -1,0 +1,56 @@
+<!--
+  ~ Copyright (c) 2021 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">REMINDER</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">reminder</string>
+    <string name="news_fragment_label">Reminder Task</string>
+
+    <string name="title_placeholder">UAS CS</string>
+    <string name="news_title">News</string>
+    <string name="sports_info_placeholder">Semangat UAS</string>
+    <string name="sports_news_detail_text">Ujian akhir semester adalah momen penting dalam
+        kehidupan seorang siswa atau mahasiswa. Ujian ini biasanya dilaksanakan setelah
+        selesainya seluruh materi yang diajarkan selama satu semester. Ujian akhir semester
+        memiliki tujuan untuk mengukur pemahaman dan penguasaan siswa terhadap materi pelajaran
+        yang telah dipelajari selama periode tersebut.</string>
+    />
+
+    <string name="baseball">Tubes Kompar</string>
+    <string name="badminton">Tugas kripto</string>
+    <string name="basketball">Tugas IMK</string>
+    <string name="bowling">Tubes Machine Learning</string>
+    <string name="cycling">Tugas Machine Learning</string>
+    <string name="golf">Tubes Kripto </string>
+    <string name="running">Tubes IMK</string>
+    <string name="soccer">Tugas PPB</string>
+    <string name="swimming">Tubes PBB</string>
+    <string name="table_tennis">Jadwal UAS</string>
+    <string name="tennis">Tugas Kuliah</string>
+
+    <string name="baseball_subtitle">Ini tubes Kompar</string>
+    <string name="badminton_subtitle">ini tugas kripto</string>
+    <string name="basketball_subtitle">ini tugas IMK</string>
+    <string name="bowling_subtitle">Ini Tubes machine learning</string>
+    <string name="cycling_subtitle">Ini Tugas machine learning</string>
+    <string name="golf_subtitle">Ini Tubes kripto</string>
+    <string name="running_subtitle">Ini Tubes IMK</string>
+    <string name="soccer_subtitle">Ini Tugas PPB</string>
+    <string name="swimming_subtitle">Ini Tubes PPB</string>
+    <string name="table_tennis_subtitle">Ini jadwal UAS </string>
+    <string name="tennis_subtitle">Ini Tugas Kuliah</string>
+</resources>
